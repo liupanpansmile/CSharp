@@ -1,0 +1,6 @@
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\ExtensionTest\AnonymousDelegateLambda\bin\Debug\AnonymousDelegateLambda.exe.config
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\ExtensionTest\AnonymousDelegateLambda\bin\Debug\AnonymousDelegateLambda.exe
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\ExtensionTest\AnonymousDelegateLambda\bin\Debug\AnonymousDelegateLambda.pdb
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\ExtensionTest\AnonymousDelegateLambda\obj\Debug\AnonymousDelegateLambda.exe
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\ExtensionTest\AnonymousDelegateLambda\obj\Debug\AnonymousDelegateLambda.pdb
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\ExtensionTest\AnonymousDelegateLambda\obj\Debug\AnonymousDelegateLambda.csprojResolveAssemblyReference.cache

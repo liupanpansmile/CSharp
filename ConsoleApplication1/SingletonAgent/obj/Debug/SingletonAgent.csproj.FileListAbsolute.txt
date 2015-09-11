@@ -1,0 +1,5 @@
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\SingletonAgent\bin\Debug\SingletonAgent.exe.config
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\SingletonAgent\bin\Debug\SingletonAgent.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\SingletonAgent\bin\Debug\SingletonAgent.pdb
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\SingletonAgent\obj\Debug\SingletonAgent.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\SingletonAgent\obj\Debug\SingletonAgent.pdb

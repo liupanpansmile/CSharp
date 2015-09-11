@@ -1,0 +1,5 @@
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\newUsage\bin\Debug\newUsage.exe.config
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\newUsage\bin\Debug\newUsage.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\newUsage\bin\Debug\newUsage.pdb
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\newUsage\obj\Debug\newUsage.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\newUsage\obj\Debug\newUsage.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\AnonymousDelegate\bin\Debug\AnonymousDelegate.exe.config
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\AnonymousDelegate\bin\Debug\AnonymousDelegate.exe
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\AnonymousDelegate\bin\Debug\AnonymousDelegate.pdb
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\AnonymousDelegate\obj\Debug\AnonymousDelegate.exe
+C:\Users\Lpp\Documents\Visual Studio 2013\Projects\AnonymousDelegate\obj\Debug\AnonymousDelegate.pdb

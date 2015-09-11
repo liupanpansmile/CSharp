@@ -1,0 +1,6 @@
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\BasicTest\bin\Debug\BasicTest.exe.config
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\BasicTest\bin\Debug\BasicTest.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\BasicTest\bin\Debug\BasicTest.pdb
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\BasicTest\obj\Debug\BasicTest.csprojResolveAssemblyReference.cache
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\BasicTest\obj\Debug\BasicTest.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\BasicTest\obj\Debug\BasicTest.pdb

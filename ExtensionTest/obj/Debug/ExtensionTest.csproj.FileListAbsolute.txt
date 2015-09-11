@@ -1,0 +1,6 @@
+c:\users\lpp\documents\visual studio 2013\Projects\ExtensionTest\bin\Debug\ExtensionTest.exe.config
+c:\users\lpp\documents\visual studio 2013\Projects\ExtensionTest\bin\Debug\ExtensionTest.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ExtensionTest\bin\Debug\ExtensionTest.pdb
+c:\users\lpp\documents\visual studio 2013\Projects\ExtensionTest\obj\Debug\ExtensionTest.csprojResolveAssemblyReference.cache
+c:\users\lpp\documents\visual studio 2013\Projects\ExtensionTest\obj\Debug\ExtensionTest.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ExtensionTest\obj\Debug\ExtensionTest.pdb

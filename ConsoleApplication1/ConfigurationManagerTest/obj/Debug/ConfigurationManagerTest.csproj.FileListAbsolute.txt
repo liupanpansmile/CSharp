@@ -1,0 +1,5 @@
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\ConfigurationManagerTest\bin\Debug\ConfigurationManagerTest.exe.config
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\ConfigurationManagerTest\bin\Debug\ConfigurationManagerTest.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\ConfigurationManagerTest\bin\Debug\ConfigurationManagerTest.pdb
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\ConfigurationManagerTest\obj\Debug\ConfigurationManagerTest.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\ConfigurationManagerTest\obj\Debug\ConfigurationManagerTest.pdb

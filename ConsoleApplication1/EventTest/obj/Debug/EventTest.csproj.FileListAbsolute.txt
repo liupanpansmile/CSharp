@@ -1,0 +1,5 @@
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\EventTest\bin\Debug\EventTest.exe.config
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\EventTest\bin\Debug\EventTest.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\EventTest\bin\Debug\EventTest.pdb
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\EventTest\obj\Debug\EventTest.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\EventTest\obj\Debug\EventTest.pdb

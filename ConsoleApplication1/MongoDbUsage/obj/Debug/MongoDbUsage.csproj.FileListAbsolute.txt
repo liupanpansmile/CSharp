@@ -1,0 +1,9 @@
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\MongoDbUsage\bin\Debug\MongoDbUsage.exe.config
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\MongoDbUsage\bin\Debug\MongoDbUsage.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\MongoDbUsage\bin\Debug\MongoDbUsage.pdb
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\MongoDbUsage\obj\Debug\MongoDbUsage.exe
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\MongoDbUsage\obj\Debug\MongoDbUsage.pdb
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\MongoDbUsage\bin\Debug\MongoDB.Bson.dll
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\MongoDbUsage\bin\Debug\MongoDB.Driver.dll
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\MongoDbUsage\bin\Debug\MongoDB.Bson.xml
+c:\users\lpp\documents\visual studio 2013\Projects\ConsoleApplication1\MongoDbUsage\bin\Debug\MongoDB.Driver.xml
